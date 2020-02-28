@@ -1,0 +1,28 @@
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\DigBrotherCentral\bin\Debug\DigBrotherCentral.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\DigBrotherCentral\bin\Debug\DigBrotherCentral.pdb
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\DigBrotherCentral\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\DigBrotherCentral\obj\Debug\DigBrotherCentral.frmAddItem.resources
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\DigBrotherCentral\obj\Debug\DigBrotherCentral.frmExcavations.resources
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\DigBrotherCentral\obj\Debug\DigBrotherCentral.Properties.Resources.resources
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\DigBrotherCentral\obj\Debug\DigBrotherCentral.csproj.GenerateResource.Cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\DigBrotherCentral\obj\Debug\DigBrotherCentral.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\DigBrotherCentral\obj\Debug\DigBrotherCentral.pdb
+N:\Lectures\Lectures\Lecture\PG_INSYD\1819\Assessment\DigBrotherCentral\DigBrotherCentral\bin\Debug\DigBrotherCentral.exe
+N:\Lectures\Lectures\Lecture\PG_INSYD\1819\Assessment\DigBrotherCentral\DigBrotherCentral\bin\Debug\DigBrotherCentral.pdb
+N:\Lectures\Lectures\Lecture\PG_INSYD\1819\Assessment\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.frmAddItem.resources
+N:\Lectures\Lectures\Lecture\PG_INSYD\1819\Assessment\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.frmExcavations.resources
+N:\Lectures\Lectures\Lecture\PG_INSYD\1819\Assessment\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.Properties.Resources.resources
+N:\Lectures\Lectures\Lecture\PG_INSYD\1819\Assessment\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.csproj.GenerateResource.cache
+N:\Lectures\Lectures\Lecture\PG_INSYD\1819\Assessment\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.csproj.CoreCompileInputs.cache
+N:\Lectures\Lectures\Lecture\PG_INSYD\1819\Assessment\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.exe
+N:\Lectures\Lectures\Lecture\PG_INSYD\1819\Assessment\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.pdb
+\\SU2\UW\UP744652\Desktop\DigBrotherCentral\DigBrotherCentral\bin\Debug\DigBrotherCentral.exe
+\\SU2\UW\UP744652\Desktop\DigBrotherCentral\DigBrotherCentral\bin\Debug\DigBrotherCentral.pdb
+\\SU2\UW\UP744652\Desktop\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.csprojAssemblyReference.cache
+\\SU2\UW\UP744652\Desktop\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.frmAddItem.resources
+\\SU2\UW\UP744652\Desktop\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.frmExcavations.resources
+\\SU2\UW\UP744652\Desktop\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.Properties.Resources.resources
+\\SU2\UW\UP744652\Desktop\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.csproj.GenerateResource.cache
+\\SU2\UW\UP744652\Desktop\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.csproj.CoreCompileInputs.cache
+\\SU2\UW\UP744652\Desktop\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.exe
+\\SU2\UW\UP744652\Desktop\DigBrotherCentral\DigBrotherCentral\obj\Debug\DigBrotherCentral.pdb
